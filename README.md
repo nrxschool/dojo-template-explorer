@@ -26,6 +26,14 @@
 - Adicionar gráficos e estatísticas (ex.: hash rate, transações por segundo).
 
 ## Opening Video:
-
+- 
 
 ## Tutorial:
+- 
+
+## Links úteis
+
+-
+-
+-
+-
